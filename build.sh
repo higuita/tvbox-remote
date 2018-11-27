@@ -1,5 +1,5 @@
 javac  -d out/  meocomando/*.java
-rm meo.jar
+rm tvbox-remote.jar
 cd out
-jar -cvfm meo.jar manifest meocomando
+jar -cvfm tvbox-remote.jar manifest meocomando
 cd ..

@@ -1,0 +1,14 @@
+TV Box remote
+
+Decompiled and imported from http://kangasoft.com.sapo.pt/meo/meocomando1.3.zip
+Sadly the site stop working long ago
+
+Fixed missing close connection that made vodafone box crash with multiple commands
+Renamed from MeoComand to tvbox-remote as this also works on vodafone box and probably several other cisco iptv boxes
+
+TODO: 
+- Allow switch between meo command image to vodafone image
+- Really use the jar click.wav instead of the filesystem one
+- Try to contact kangasoft and get a proper license
+
+For now, AFAIK, copyright to Kangasoft
