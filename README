@@ -12,3 +12,6 @@ TODO:
 - Try to contact kangasoft and get a proper license
 
 For now, AFAIK, copyright to Kangasoft
+
+i recently found a smaller and linux only version of this, located https://github.com/miguelleitao/meoRemote, so if you use linux, you may prefer that one.
+If you know C, you may want to try to port that to other platforms too.
